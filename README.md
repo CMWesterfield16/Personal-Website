@@ -1,2 +1,2 @@
-# SavannahCandy
-A candy game for my cousin
+# Caitlin Westerfield's Personal Website
+About Me
