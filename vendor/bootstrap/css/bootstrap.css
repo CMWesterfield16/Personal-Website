@@ -636,6 +636,8 @@ pre code {
   max-width: 100%;
 }
 
+
+
 .col-auto {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 auto;
@@ -8977,3 +8979,20 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.col-container {
+  display: table; /* Make the container element behave like a table */
+  width: 100%; /* Set full-width to expand the whole page */
+  text-align: center;
+}
+
+.col-container-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1em;
+}
+
+.col-container-cell {
+  display: table-cell;
+}
