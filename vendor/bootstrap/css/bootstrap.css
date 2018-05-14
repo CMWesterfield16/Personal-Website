@@ -555,10 +555,22 @@ pre code {
 
 .container {
   width: 100%;
+  /* margin: 0; */
+  /* padding-top: 15px;
+  padding-bottom: 15px; */
+  /* margin:auto;
+  position:relative;
+  top:-8px;
+  left:-8px; */
+  border-left: 0px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 0px
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+
 }
 
 @media (min-width: 576px) {
